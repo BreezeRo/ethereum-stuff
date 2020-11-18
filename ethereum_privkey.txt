@@ -1,0 +1,6 @@
+------------------------------------------------------------------------------------------------
+//wallet: 0xF7A6c3A5fc2e17d09eAA18c0cdCF7D4d598069c2
+//privKey: a9de6fd773bd464c8e67ccdce2ae7cc86a91d3db38a275d6938560a86b210f62
+------------------------------------------------------------------------------------------------
+
+This is your metamask wallet and private key, do not share it or lose it or they will steal your tokens. I'll explain more about erc-20 tokens later.
